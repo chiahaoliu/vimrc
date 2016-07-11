@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/timothyliu/.vim'
+let g:netrw_dirhist_2='/Users/timothyliu/xpdAcq/xpdacq'
+let g:netrw_dirhist_3='/Users/timothyliu/billingeGroupPythonTutorial/.git'
+let g:netrw_dirhist_4='/Users/timothyliu/xpdAcq/xpdacq'
+let g:netrw_dirhist_5='/Users/timothyliu/databroker'
+let g:netrw_dirhist_6='/Users/timothyliu/xpdAcq/xpd_profile_file'
+let g:netrw_dirhist_7='/Users/timothyliu/2016_summer_XPD/Analyze'
+let g:netrw_dirhist_8='/Users/timothyliu/xpdAcq/xpdacq/new_xpdacq'
+let g:netrw_dirhist_9='/Users/timothyliu/diffpy.srxplanar/diffpy'
